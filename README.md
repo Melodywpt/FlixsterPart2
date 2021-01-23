@@ -22,7 +22,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://github.com/Melodywpt/FlixsterPart2/blob/main/ezgif.com-gif-maker.gif" width=250><br>
+<img src="https://github.com/Melodywpt/Codepath-flixster/blob/main/ezgif.com-gif-maker.gif" width=250><br>
 
 ### Notes
 
